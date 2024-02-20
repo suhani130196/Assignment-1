@@ -1,0 +1,28 @@
+.main-box{
+    border: 2px solid lightgrey;
+    border-radius: 14px;
+    width: 500px;
+    margin: 80px auto;
+    /* padding: 30px; */
+}
+.img-box{
+    width: 100%;
+    border-top-left-radius: 14px;
+    border-top-right-radius: 14px;
+}
+.text-content{
+    padding: 20px;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.maincontent{
+    color: grey;
+}
+.btn{
+    padding: 14px;
+    font-size: 20px;
+    color: rgb(41, 146, 237);
+    border: 1px solid lightgrey;
+    background-color: white;
+    border-radius: 10px;
+}
